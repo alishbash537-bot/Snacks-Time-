@@ -1,0 +1,6 @@
+{
+  "name": "Snacks Time",
+  "description": "A premium, late-night culinary discovery and ordering platform featuring curated midnight snacks with high OLED contrast aesthetics and intelligent craving matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
